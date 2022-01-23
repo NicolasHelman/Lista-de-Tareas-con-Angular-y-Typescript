@@ -23,6 +23,12 @@
       "text": "Cuarta Tarea",
       "day": "Enero 20 a las 7:00 am",
       "reminder": true
+    },
+    {
+      "text": "Quinta Tarea",
+      "day": "Enero 22 a las 8:00 am",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
